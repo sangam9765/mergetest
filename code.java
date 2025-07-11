@@ -6,6 +6,7 @@ public class Code {
         for (int i = 0; i < 10; i++) {
             int randomNum = rand.nextInt(100) + 1;
             System.out.println(randomNum);
+            System.out.println("me")
         }
     }
 }
